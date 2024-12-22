@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a project which is a Redis clone, to better my understanding of Python and TCP.<br>
+creating interesting stuff...<br>
 
 
 ## 🌐 Socials:
